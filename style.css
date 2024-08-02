@@ -1,0 +1,28 @@
+.note {
+    height: 200px;
+    width: 2%;
+    border: black 2px solid;
+    background-color: white;
+}
+
+.note1 {
+    height: 200px;
+    width: 2%;
+    border: black 2px solid;
+    background-color: white;
+    bottom: 500px;
+}
+
+.center {
+    display: flex;
+    align-items: center;
+    height: 100vh;
+}
+.blackNote{
+    background-color: black;
+    height: 100px;
+    width: 100%;
+    border: 1px solid red;
+    position: relative;
+    left: 15px;
+}
